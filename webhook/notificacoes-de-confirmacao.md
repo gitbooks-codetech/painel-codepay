@@ -20,11 +20,11 @@ Clique no ícone de visualizar para acessar todas as informações.
 
 * Detalhes da notificação: mostra todos os dados da notificação enviada
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Corpo da requisição: exibe a notificação que enviamos para o cliente no WEBHOOK dele.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Corpo da resposta: o que recebemos ao enviar a notificação via WEBHOOK do cliente.
 
