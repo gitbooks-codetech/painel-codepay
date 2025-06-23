@@ -10,7 +10,7 @@ Aqui que você cadastra um novo cliente no CodePay.
 
 No menu lateral no item **Administração**, clique em <mark style="color:green;">**Clientes Gateway**</mark>, a lista de clientes cadastrados é exibida.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Para cadastrar novo cliente é necessário ter permissão nessa funcionalidade.
@@ -22,7 +22,7 @@ Os campos de Taxa Pix IN e Taxa Pix OUT são obrigatórios mas possuem um padrã
 
 Informe o seu código de 2fa (segundo fator de segurança) para clicar em <mark style="color:green;">**Cadastrar**</mark> e finalizar o cadastro.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Após criar um novo cliente ele recebe no email cadastrado 2 emails, um com as credenciais da conta para integração e outro para o primeiro acesso ao banco CodePay.
@@ -34,7 +34,7 @@ Para alterar informações do cliente, nalista de clientes cadastrados clique no
 
 Os campos nome, email e documento não podem ser alterados pelo Painel CodePay, é necessário solicitar alteração.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Para editar todas as informações do cliete, exceto os campos nome, email e documento, é necessário ter permissão nessa funcionalidade.
@@ -42,7 +42,7 @@ Para editar todas as informações do cliete, exceto os campos nome, email e doc
 
 Ao clicar em editar um formulário é exibido com os campos permitidos para a alteração. Para finalizar a edição é necessário informar o código 2fa (segundo fator de segurança).
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 O status do cliente pode ser alterado para inativo, dessa forma o cliente não consegue mais utilizar o CodePay e nem realizar movimentos direto pelo API Gateway da CodePay.
 

@@ -8,7 +8,7 @@ Para acessar a lista de solicitações de cartão de crédito, no menu lateral a
 
 A lista de solicitações será exibida:
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 O andamento da solicitação de cartão de crédito é feita atrvéz da alteração de status e cadastro de informaçoes no painel da CodePay.
 
