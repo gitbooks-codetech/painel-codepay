@@ -33,3 +33,11 @@ Clique no ícone de visualizar para acessar todas as informações.
 ### Reenvio da notificação
 
 Também é possível fazer o reenvio por aqui, só clicar no ícone de reenvio.
+
+{% embed url="https://jam.dev/c/847b4fc4-5f8f-4f5f-8ee6-7d3b601df67a" %}
+
+### Busca da notificação
+
+É possível encontrar a notificação com o externalId, clientId, nome do cliente, paymentId, e2e, movId, url do wbhook do cliente... Também pode filtar para exibir apenas as que possui erro.
+
+{% embed url="https://jam.dev/c/6256bab8-4054-4489-afdd-e044149b5056" %}
