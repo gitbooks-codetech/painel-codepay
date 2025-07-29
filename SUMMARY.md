@@ -17,7 +17,7 @@
 ***
 
 * [Pix MED](pix-med.md)
-* [Limites](limites.md)
+* [Limites de Transferência](limites-de-transferencia.md)
 * [Split](split.md)
 
 ## WEBHOOK
