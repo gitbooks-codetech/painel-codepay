@@ -16,6 +16,7 @@
 
 ***
 
+* [Logs](logs.md)
 * [Pix MED](pix-med.md)
 * [Limites de Transferência](limites-de-transferencia.md)
 * [Split](split.md)
