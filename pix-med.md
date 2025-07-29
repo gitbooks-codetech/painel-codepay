@@ -16,3 +16,32 @@ A página de MED pode ser filtrada por cliente, paymentId, e2e, externalId e o t
 
 <figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
+### Cadastro de MED
+
+Para adicionar um novo MED, clique no botão +Cadastrar e informe o e2e.
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Após informar o e2e, clique no ícone de pesquisa para visualizar o movimento. Informa o seu código de segurança (2fa) e clique em Confirmar.
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+### Visualizar arquivos para defesa
+
+Para acessar os arquivos de defesa adicionados pelo cliente, clique no ícone de anexos.
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+A página vai exibir o comentário do cliente e os documentos que ele inserir. Para visualizar é só clicar no documento.
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+### Finalizar MED
+
+Para finalizar o MED e retirar do MED ou definir como Estorno, clique no ícone de excluir.
+
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+Selecione Cancelado para o caso de retornar o valor bloqueado pra a conta do cliente e o estornado para o caso do valor ter sido devolvido para o pagador.
+
+<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
