@@ -25,7 +25,7 @@ Clique no botão <mark style="color:green;">**Gerar limite para cliente**</mark>
 É possível gerar o limite com status de pendente caso ainda não tenha certeza, mas para o limite já ser válido ao criar utilize o status **Ativo**.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Editar o status do limite
 

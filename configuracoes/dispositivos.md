@@ -16,4 +16,4 @@ Clique no botão Cadastrar Dispositivo e preencha os campos com um apelido para 
 Só pode ser cadastrado 2 dispositivos. Se você já tiver 2 cadastrados, exclua um e cadastre o que precisa.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

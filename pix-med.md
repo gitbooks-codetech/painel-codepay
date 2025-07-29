@@ -24,7 +24,7 @@ Para adicionar um novo MED, clique no botão +Cadastrar e informe o e2e.
 
 Após informar o e2e, clique no ícone de pesquisa para visualizar o movimento. Informa o seu código de segurança (2fa) e clique em Confirmar.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Visualizar arquivos para defesa
 

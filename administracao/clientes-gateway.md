@@ -22,7 +22,7 @@ Os campos de Taxa Pix IN e Taxa Pix OUT são obrigatórios mas possuem um padrã
 
 Informe o seu código de 2fa (segundo fator de segurança) para clicar em <mark style="color:green;">**Cadastrar**</mark> e finalizar o cadastro.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Após criar um novo cliente ele recebe no email cadastrado 2 emails, um com as credenciais da conta para integração e outro para o primeiro acesso ao banco CodePay.
