@@ -11,7 +11,8 @@
 * [Contas](administracao/contas/README.md)
   * [Solicitações de abertura](administracao/contas/solicitacoes-de-abertura.md)
 * [Clientes Gateway](administracao/clientes-gateway.md)
-* [Usuários Backoffice](administracao/usuarios-backoffice.md)
+* [Usuários Backoffice](administracao/usuarios-backoffice/README.md)
+  * [Cadastro de usuário interno](administracao/usuarios-backoffice/cadastro-de-usuario-interno.md)
 
 ***
 
