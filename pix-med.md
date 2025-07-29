@@ -20,21 +20,21 @@ A página de MED pode ser filtrada por cliente, paymentId, e2e, externalId e o t
 
 Para adicionar um novo MED, clique no botão +Cadastrar e informe o e2e.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Após informar o e2e, clique no ícone de pesquisa para visualizar o movimento. Informa o seu código de segurança (2fa) e clique em Confirmar.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Visualizar arquivos para defesa
 
 Para acessar os arquivos de defesa adicionados pelo cliente, clique no ícone de anexos.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 A página vai exibir o comentário do cliente e os documentos que ele inserir. Para visualizar é só clicar no documento.
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Finalizar MED
 
