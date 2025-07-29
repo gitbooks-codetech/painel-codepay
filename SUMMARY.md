@@ -16,7 +16,7 @@
 
 ***
 
-* [Pix Med / Estorno](pix-med-estorno.md)
+* [Pix MED](pix-med.md)
 * [Limites](limites.md)
 * [Split](split.md)
 
