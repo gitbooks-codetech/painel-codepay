@@ -13,6 +13,7 @@
 * [Clientes Gateway](administracao/clientes-gateway.md)
 * [Usuários Backoffice](administracao/usuarios-backoffice/README.md)
   * [Cadastro de usuário interno](administracao/usuarios-backoffice/cadastro-de-usuario-interno.md)
+  * [Gestão de usuários Codepay](administracao/usuarios-backoffice/gestao-de-usuarios-codepay.md)
 
 ***
 
