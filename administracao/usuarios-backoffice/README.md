@@ -22,7 +22,7 @@ Se o cliente estive com o status  **"Aguardando Primeiro Acesso"** é possível 
 * Clique no ícone de envio de email e selecione o email de Primeiro Acesso.
 * Informe o seu código de segurança (2fa) e clique em Reenviar Email.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Caso o cliente precise das sua credencias para acessar o Gateway de pagamentos via API, é possível reenviar o email de Credenciais. Apenas seguir os mesmo passos do item anterior selecionando o email **Credenciais**.
 

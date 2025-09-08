@@ -12,4 +12,4 @@ Selecione o cliente e defina o perído. Os totais seram exibidos na tela.
 O período é limitado sempre a 7 dias.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
