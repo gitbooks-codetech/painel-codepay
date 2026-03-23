@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Painel CodePay](README.md)
+* [Painel CodeIp](README.md)
 
 ## ADMINISTRAÇÃO
 
